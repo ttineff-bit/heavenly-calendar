@@ -12,4 +12,5 @@ const uids=un.filter(l=>l.startsWith("UID:"));A.equal(new Set(uids).size,ev);
 A(un.includes("DTSTART;VALUE=DATE:20261109"));// True Children's Day 2026 (10.1)
 // lookahead
 const w=G.CORE.lookahead(d("2026-11-01"),"week");A(w.text.includes("True Children's Day"));A(!/[\u2013\u2014]/.test(w.text+w.html));
-console.log("all new tests passed:",Q.length,"quotes,",ev,"events");
+for(let i=1;i<=366;i++){const q=G.CORE.quoteFor(new Date(Date.UTC(2028,0,i,12)));A(q,"day "+i);for(const k of["text","speaker","source","date","place","occasion","link"])A(q[k],k+" day "+i)}
+console.log("366 days OK;","all new tests passed:",Q.length,"quotes,",ev,"events");
