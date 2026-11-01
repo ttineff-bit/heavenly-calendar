@@ -1,0 +1,1325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//UM Ireland//Heavenly Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heavenly Calendar holy days
+X-WR-TIMEZONE:Europe/Dublin
+REFRESH-INTERVAL;VALUE=DURATION:P7D
+X-PUBLISHED-TTL:P7D
+BEGIN:VEVENT
+UID:hc-2026-1-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:God's Day (Heavenly Parent's Day)\, start of the Cheon Il Guk year
+DESCRIPTION:Heavenly Calendar 1.1. First day of the first month of the Heav
+ enly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year. Source:
+  https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-
+ 2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: God's Day (Heavenly Parent's Day)\, start of the Cheo
+ n Il Guk year
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: God's Day (Heavenly Parent's Day)\, start of the Cheon I
+ l Guk year
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-1-6@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:True Parents' Birthday
+DESCRIPTION:Heavenly Calendar 1.6. Commemoration of the Holy Births of True
+  Father (1920) and True Mother (1943). Source: https://www.tparents.org/Li
+ brary/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Birthday
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Birthday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-1-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:Cheon Il Guk Foundation Day
+DESCRIPTION:Heavenly Calendar 1.13. Foundation Day of Cheon Il Guk\, 2013\,
+  from which the Cheon Il Guk years are counted. Also the Coronation Ceremo
+ ny for the Kingship of God (2001). Source: https://www.tparents.org/Librar
+ y/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cheon Il Guk Foundation Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Cheon Il Guk Foundation Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-3-16@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:Anniversary of True Parents' Holy Wedding
+DESCRIPTION:Heavenly Calendar 3.16. Holy Wedding of True Parents\, 1960. Al
+ so listed as the anniversary of the founding of the Unification Church. So
+ urce: https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Cale
+ ndar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Parents' Holy Wedding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Parents' Holy Wedding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-5-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:Day of All True Things
+DESCRIPTION:Heavenly Calendar 5.1. Proclaimed in 1963. Source: https://www.
+ tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Day of All True Things
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Day of All True Things
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-6-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Holy Day on 6.13 (listed on the FFWPU Europe 2026 calendar) (to be 
+ confirmed)
+DESCRIPTION:Heavenly Calendar 6.13. Listed as 13.6 (26 July 2026) among the
+  major holy days. The exact title for this date is to be confirmed from th
+ e official list. Date or title to be confirmed. Source: https://www.tparen
+ ts.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Holy Day on 6.13 (listed on the FFWPU Europe 2026 cal
+ endar)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Holy Day on 6.13 (listed on the FFWPU Europe 2026 calend
+ ar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-7-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+DESCRIPTION:Heavenly Calendar 7.1. Declared in 1991. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration Day of God's Eternal Blessing (Chil Il Je
+ ol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-7-7@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Declaration of the Realm of the Cosmic Sabbath for Parents of Heave
+ n and Earth (Chil Pal Jeol)
+DESCRIPTION:Heavenly Calendar 7.7. Declared in 1997. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration of the Realm of the Cosmic Sabbath for Pa
+ rents of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration of the Realm of the Cosmic Sabbath for Paren
+ ts of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-7-17@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Anniversary of True Father's Seonghwa
+DESCRIPTION:Heavenly Calendar 7.17. Ascension of the True Parent of Heaven\
+ , Earth and Humankind\, 3 September 2012. Source: https://www.tparents.org
+ /Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Father's Seonghwa
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Father's Seonghwa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-10-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:True Children's Day
+DESCRIPTION:Heavenly Calendar 10.1. Proclaimed in 1960. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Children's Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Children's Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-10-3@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Foundation Day for the Nation of Heaven and Earth (Unified Nation)
+DESCRIPTION:Heavenly Calendar 10.3. Proclaimed in 1988. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Foundation Day for the Nation of Heaven and Earth (Un
+ ified Nation)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Foundation Day for the Nation of Heaven and Earth (Unifi
+ ed Nation)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2026-3-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:True Parents' Day (to be confirmed)
+DESCRIPTION:Heavenly Calendar 3.1. Traditionally observed on 3.1 of the Hea
+ venly Calendar (1960). Date to be confirmed against the current official c
+ alendar. Date or title to be confirmed. Source: https://tplegacy.net/calen
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-1-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:God's Day (Heavenly Parent's Day)\, start of the Cheon Il Guk year
+DESCRIPTION:Heavenly Calendar 1.1. First day of the first month of the Heav
+ enly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year. Source:
+  https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-
+ 2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: God's Day (Heavenly Parent's Day)\, start of the Cheo
+ n Il Guk year
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: God's Day (Heavenly Parent's Day)\, start of the Cheon I
+ l Guk year
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-1-6@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:True Parents' Birthday
+DESCRIPTION:Heavenly Calendar 1.6. Commemoration of the Holy Births of True
+  Father (1920) and True Mother (1943). Source: https://www.tparents.org/Li
+ brary/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Birthday
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Birthday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-1-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:Cheon Il Guk Foundation Day
+DESCRIPTION:Heavenly Calendar 1.13. Foundation Day of Cheon Il Guk\, 2013\,
+  from which the Cheon Il Guk years are counted. Also the Coronation Ceremo
+ ny for the Kingship of God (2001). Source: https://www.tparents.org/Librar
+ y/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cheon Il Guk Foundation Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Cheon Il Guk Foundation Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-3-16@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Anniversary of True Parents' Holy Wedding
+DESCRIPTION:Heavenly Calendar 3.16. Holy Wedding of True Parents\, 1960. Al
+ so listed as the anniversary of the founding of the Unification Church. So
+ urce: https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Cale
+ ndar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Parents' Holy Wedding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Parents' Holy Wedding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-5-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:Day of All True Things
+DESCRIPTION:Heavenly Calendar 5.1. Proclaimed in 1963. Source: https://www.
+ tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Day of All True Things
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Day of All True Things
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-6-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:Holy Day on 6.13 (listed on the FFWPU Europe 2026 calendar) (to be 
+ confirmed)
+DESCRIPTION:Heavenly Calendar 6.13. Listed as 13.6 (26 July 2026) among the
+  major holy days. The exact title for this date is to be confirmed from th
+ e official list. Date or title to be confirmed. Source: https://www.tparen
+ ts.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Holy Day on 6.13 (listed on the FFWPU Europe 2026 cal
+ endar)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Holy Day on 6.13 (listed on the FFWPU Europe 2026 calend
+ ar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-7-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+DESCRIPTION:Heavenly Calendar 7.1. Declared in 1991. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration Day of God's Eternal Blessing (Chil Il Je
+ ol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-7-7@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:Declaration of the Realm of the Cosmic Sabbath for Parents of Heave
+ n and Earth (Chil Pal Jeol)
+DESCRIPTION:Heavenly Calendar 7.7. Declared in 1997. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration of the Realm of the Cosmic Sabbath for Pa
+ rents of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration of the Realm of the Cosmic Sabbath for Paren
+ ts of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-7-17@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:Anniversary of True Father's Seonghwa
+DESCRIPTION:Heavenly Calendar 7.17. Ascension of the True Parent of Heaven\
+ , Earth and Humankind\, 3 September 2012. Source: https://www.tparents.org
+ /Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Father's Seonghwa
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Father's Seonghwa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-10-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:True Children's Day
+DESCRIPTION:Heavenly Calendar 10.1. Proclaimed in 1960. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Children's Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Children's Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-10-3@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:Foundation Day for the Nation of Heaven and Earth (Unified Nation)
+DESCRIPTION:Heavenly Calendar 10.3. Proclaimed in 1988. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Foundation Day for the Nation of Heaven and Earth (Un
+ ified Nation)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Foundation Day for the Nation of Heaven and Earth (Unifi
+ ed Nation)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2027-3-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:True Parents' Day (to be confirmed)
+DESCRIPTION:Heavenly Calendar 3.1. Traditionally observed on 3.1 of the Hea
+ venly Calendar (1960). Date to be confirmed against the current official c
+ alendar. Date or title to be confirmed. Source: https://tplegacy.net/calen
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-1-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280127
+DTEND;VALUE=DATE:20280128
+SUMMARY:God's Day (Heavenly Parent's Day)\, start of the Cheon Il Guk year
+DESCRIPTION:Heavenly Calendar 1.1. First day of the first month of the Heav
+ enly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year. Source:
+  https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-
+ 2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: God's Day (Heavenly Parent's Day)\, start of the Cheo
+ n Il Guk year
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: God's Day (Heavenly Parent's Day)\, start of the Cheon I
+ l Guk year
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-1-6@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280201
+DTEND;VALUE=DATE:20280202
+SUMMARY:True Parents' Birthday
+DESCRIPTION:Heavenly Calendar 1.6. Commemoration of the Holy Births of True
+  Father (1920) and True Mother (1943). Source: https://www.tparents.org/Li
+ brary/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Birthday
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Birthday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-1-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280208
+DTEND;VALUE=DATE:20280209
+SUMMARY:Cheon Il Guk Foundation Day
+DESCRIPTION:Heavenly Calendar 1.13. Foundation Day of Cheon Il Guk\, 2013\,
+  from which the Cheon Il Guk years are counted. Also the Coronation Ceremo
+ ny for the Kingship of God (2001). Source: https://www.tparents.org/Librar
+ y/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cheon Il Guk Foundation Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Cheon Il Guk Foundation Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-3-16@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280410
+DTEND;VALUE=DATE:20280411
+SUMMARY:Anniversary of True Parents' Holy Wedding
+DESCRIPTION:Heavenly Calendar 3.16. Holy Wedding of True Parents\, 1960. Al
+ so listed as the anniversary of the founding of the Unification Church. So
+ urce: https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Cale
+ ndar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Parents' Holy Wedding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Parents' Holy Wedding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-5-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280524
+DTEND;VALUE=DATE:20280525
+SUMMARY:Day of All True Things
+DESCRIPTION:Heavenly Calendar 5.1. Proclaimed in 1963. Source: https://www.
+ tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Day of All True Things
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Day of All True Things
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-6-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280803
+DTEND;VALUE=DATE:20280804
+SUMMARY:Holy Day on 6.13 (listed on the FFWPU Europe 2026 calendar) (to be 
+ confirmed)
+DESCRIPTION:Heavenly Calendar 6.13. Listed as 13.6 (26 July 2026) among the
+  major holy days. The exact title for this date is to be confirmed from th
+ e official list. Date or title to be confirmed. Source: https://www.tparen
+ ts.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Holy Day on 6.13 (listed on the FFWPU Europe 2026 cal
+ endar)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Holy Day on 6.13 (listed on the FFWPU Europe 2026 calend
+ ar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-7-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280820
+DTEND;VALUE=DATE:20280821
+SUMMARY:Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+DESCRIPTION:Heavenly Calendar 7.1. Declared in 1991. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration Day of God's Eternal Blessing (Chil Il Je
+ ol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-7-7@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280826
+DTEND;VALUE=DATE:20280827
+SUMMARY:Declaration of the Realm of the Cosmic Sabbath for Parents of Heave
+ n and Earth (Chil Pal Jeol)
+DESCRIPTION:Heavenly Calendar 7.7. Declared in 1997. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration of the Realm of the Cosmic Sabbath for Pa
+ rents of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration of the Realm of the Cosmic Sabbath for Paren
+ ts of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-7-17@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280905
+DTEND;VALUE=DATE:20280906
+SUMMARY:Anniversary of True Father's Seonghwa
+DESCRIPTION:Heavenly Calendar 7.17. Ascension of the True Parent of Heaven\
+ , Earth and Humankind\, 3 September 2012. Source: https://www.tparents.org
+ /Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Father's Seonghwa
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Father's Seonghwa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-10-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20281116
+DTEND;VALUE=DATE:20281117
+SUMMARY:True Children's Day
+DESCRIPTION:Heavenly Calendar 10.1. Proclaimed in 1960. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Children's Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Children's Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-10-3@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20281118
+DTEND;VALUE=DATE:20281119
+SUMMARY:Foundation Day for the Nation of Heaven and Earth (Unified Nation)
+DESCRIPTION:Heavenly Calendar 10.3. Proclaimed in 1988. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Foundation Day for the Nation of Heaven and Earth (Un
+ ified Nation)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Foundation Day for the Nation of Heaven and Earth (Unifi
+ ed Nation)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2028-3-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:True Parents' Day (to be confirmed)
+DESCRIPTION:Heavenly Calendar 3.1. Traditionally observed on 3.1 of the Hea
+ venly Calendar (1960). Date to be confirmed against the current official c
+ alendar. Date or title to be confirmed. Source: https://tplegacy.net/calen
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-1-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290213
+DTEND;VALUE=DATE:20290214
+SUMMARY:God's Day (Heavenly Parent's Day)\, start of the Cheon Il Guk year
+DESCRIPTION:Heavenly Calendar 1.1. First day of the first month of the Heav
+ enly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year. Source:
+  https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-
+ 2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: God's Day (Heavenly Parent's Day)\, start of the Cheo
+ n Il Guk year
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: God's Day (Heavenly Parent's Day)\, start of the Cheon I
+ l Guk year
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-1-6@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290219
+SUMMARY:True Parents' Birthday
+DESCRIPTION:Heavenly Calendar 1.6. Commemoration of the Holy Births of True
+  Father (1920) and True Mother (1943). Source: https://www.tparents.org/Li
+ brary/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Birthday
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Birthday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-1-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290225
+DTEND;VALUE=DATE:20290226
+SUMMARY:Cheon Il Guk Foundation Day
+DESCRIPTION:Heavenly Calendar 1.13. Foundation Day of Cheon Il Guk\, 2013\,
+  from which the Cheon Il Guk years are counted. Also the Coronation Ceremo
+ ny for the Kingship of God (2001). Source: https://www.tparents.org/Librar
+ y/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cheon Il Guk Foundation Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Cheon Il Guk Foundation Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-3-16@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290429
+DTEND;VALUE=DATE:20290430
+SUMMARY:Anniversary of True Parents' Holy Wedding
+DESCRIPTION:Heavenly Calendar 3.16. Holy Wedding of True Parents\, 1960. Al
+ so listed as the anniversary of the founding of the Unification Church. So
+ urce: https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Cale
+ ndar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Parents' Holy Wedding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Parents' Holy Wedding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-5-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290612
+DTEND;VALUE=DATE:20290613
+SUMMARY:Day of All True Things
+DESCRIPTION:Heavenly Calendar 5.1. Proclaimed in 1963. Source: https://www.
+ tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Day of All True Things
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Day of All True Things
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-6-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290724
+DTEND;VALUE=DATE:20290725
+SUMMARY:Holy Day on 6.13 (listed on the FFWPU Europe 2026 calendar) (to be 
+ confirmed)
+DESCRIPTION:Heavenly Calendar 6.13. Listed as 13.6 (26 July 2026) among the
+  major holy days. The exact title for this date is to be confirmed from th
+ e official list. Date or title to be confirmed. Source: https://www.tparen
+ ts.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Holy Day on 6.13 (listed on the FFWPU Europe 2026 cal
+ endar)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Holy Day on 6.13 (listed on the FFWPU Europe 2026 calend
+ ar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-7-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290810
+DTEND;VALUE=DATE:20290811
+SUMMARY:Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+DESCRIPTION:Heavenly Calendar 7.1. Declared in 1991. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration Day of God's Eternal Blessing (Chil Il Je
+ ol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-7-7@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290816
+DTEND;VALUE=DATE:20290817
+SUMMARY:Declaration of the Realm of the Cosmic Sabbath for Parents of Heave
+ n and Earth (Chil Pal Jeol)
+DESCRIPTION:Heavenly Calendar 7.7. Declared in 1997. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration of the Realm of the Cosmic Sabbath for Pa
+ rents of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration of the Realm of the Cosmic Sabbath for Paren
+ ts of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-7-17@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290826
+DTEND;VALUE=DATE:20290827
+SUMMARY:Anniversary of True Father's Seonghwa
+DESCRIPTION:Heavenly Calendar 7.17. Ascension of the True Parent of Heaven\
+ , Earth and Humankind\, 3 September 2012. Source: https://www.tparents.org
+ /Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Father's Seonghwa
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Father's Seonghwa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-10-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20291106
+DTEND;VALUE=DATE:20291107
+SUMMARY:True Children's Day
+DESCRIPTION:Heavenly Calendar 10.1. Proclaimed in 1960. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Children's Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Children's Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-10-3@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20291108
+DTEND;VALUE=DATE:20291109
+SUMMARY:Foundation Day for the Nation of Heaven and Earth (Unified Nation)
+DESCRIPTION:Heavenly Calendar 10.3. Proclaimed in 1988. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Foundation Day for the Nation of Heaven and Earth (Un
+ ified Nation)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Foundation Day for the Nation of Heaven and Earth (Unifi
+ ed Nation)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2029-3-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20290414
+DTEND;VALUE=DATE:20290415
+SUMMARY:True Parents' Day (to be confirmed)
+DESCRIPTION:Heavenly Calendar 3.1. Traditionally observed on 3.1 of the Hea
+ venly Calendar (1960). Date to be confirmed against the current official c
+ alendar. Date or title to be confirmed. Source: https://tplegacy.net/calen
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-1-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300203
+DTEND;VALUE=DATE:20300204
+SUMMARY:God's Day (Heavenly Parent's Day)\, start of the Cheon Il Guk year
+DESCRIPTION:Heavenly Calendar 1.1. First day of the first month of the Heav
+ enly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year. Source:
+  https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-
+ 2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: God's Day (Heavenly Parent's Day)\, start of the Cheo
+ n Il Guk year
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: God's Day (Heavenly Parent's Day)\, start of the Cheon I
+ l Guk year
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-1-6@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300208
+DTEND;VALUE=DATE:20300209
+SUMMARY:True Parents' Birthday
+DESCRIPTION:Heavenly Calendar 1.6. Commemoration of the Holy Births of True
+  Father (1920) and True Mother (1943). Source: https://www.tparents.org/Li
+ brary/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Birthday
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Birthday
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-1-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300215
+DTEND;VALUE=DATE:20300216
+SUMMARY:Cheon Il Guk Foundation Day
+DESCRIPTION:Heavenly Calendar 1.13. Foundation Day of Cheon Il Guk\, 2013\,
+  from which the Cheon Il Guk years are counted. Also the Coronation Ceremo
+ ny for the Kingship of God (2001). Source: https://www.tparents.org/Librar
+ y/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Cheon Il Guk Foundation Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Cheon Il Guk Foundation Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-3-16@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300418
+DTEND;VALUE=DATE:20300419
+SUMMARY:Anniversary of True Parents' Holy Wedding
+DESCRIPTION:Heavenly Calendar 3.16. Holy Wedding of True Parents\, 1960. Al
+ so listed as the anniversary of the founding of the Unification Church. So
+ urce: https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Cale
+ ndar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Parents' Holy Wedding
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Parents' Holy Wedding
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-5-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300601
+DTEND;VALUE=DATE:20300602
+SUMMARY:Day of All True Things
+DESCRIPTION:Heavenly Calendar 5.1. Proclaimed in 1963. Source: https://www.
+ tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Day of All True Things
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Day of All True Things
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-6-13@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300713
+DTEND;VALUE=DATE:20300714
+SUMMARY:Holy Day on 6.13 (listed on the FFWPU Europe 2026 calendar) (to be 
+ confirmed)
+DESCRIPTION:Heavenly Calendar 6.13. Listed as 13.6 (26 July 2026) among the
+  major holy days. The exact title for this date is to be confirmed from th
+ e official list. Date or title to be confirmed. Source: https://www.tparen
+ ts.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Holy Day on 6.13 (listed on the FFWPU Europe 2026 cal
+ endar)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Holy Day on 6.13 (listed on the FFWPU Europe 2026 calend
+ ar)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-7-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300730
+DTEND;VALUE=DATE:20300731
+SUMMARY:Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+DESCRIPTION:Heavenly Calendar 7.1. Declared in 1991. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration Day of God's Eternal Blessing (Chil Il Je
+ ol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration Day of God's Eternal Blessing (Chil Il Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-7-7@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300805
+DTEND;VALUE=DATE:20300806
+SUMMARY:Declaration of the Realm of the Cosmic Sabbath for Parents of Heave
+ n and Earth (Chil Pal Jeol)
+DESCRIPTION:Heavenly Calendar 7.7. Declared in 1997. Source: https://www.tp
+ arents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Declaration of the Realm of the Cosmic Sabbath for Pa
+ rents of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Declaration of the Realm of the Cosmic Sabbath for Paren
+ ts of Heaven and Earth (Chil Pal Jeol)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-7-17@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300815
+DTEND;VALUE=DATE:20300816
+SUMMARY:Anniversary of True Father's Seonghwa
+DESCRIPTION:Heavenly Calendar 7.17. Ascension of the True Parent of Heaven\
+ , Earth and Humankind\, 3 September 2012. Source: https://www.tparents.org
+ /Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Anniversary of True Father's Seonghwa
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Anniversary of True Father's Seonghwa
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-10-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20301027
+DTEND;VALUE=DATE:20301028
+SUMMARY:True Children's Day
+DESCRIPTION:Heavenly Calendar 10.1. Proclaimed in 1960. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Children's Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Children's Day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-10-3@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20301029
+DTEND;VALUE=DATE:20301030
+SUMMARY:Foundation Day for the Nation of Heaven and Earth (Unified Nation)
+DESCRIPTION:Heavenly Calendar 10.3. Proclaimed in 1988. Source: https://www
+ .tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: Foundation Day for the Nation of Heaven and Earth (Un
+ ified Nation)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: Foundation Day for the Nation of Heaven and Earth (Unifi
+ ed Nation)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:hc-2030-3-1@ttineff-bit.github.io
+DTSTAMP:20261101T000000Z
+DTSTART;VALUE=DATE:20300403
+DTEND;VALUE=DATE:20300404
+SUMMARY:True Parents' Day (to be confirmed)
+DESCRIPTION:Heavenly Calendar 3.1. Traditionally observed on 3.1 of the Hea
+ venly Calendar (1960). Date to be confirmed against the current official c
+ alendar. Date or title to be confirmed. Source: https://tplegacy.net/calen
+ dar/
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Tomorrow: True Parents' Day
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:PT9H
+DESCRIPTION:Today: True Parents' Day
+END:VALARM
+END:VEVENT
+END:VCALENDAR

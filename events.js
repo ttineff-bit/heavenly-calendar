@@ -1,7 +1,7 @@
 // Lunar (Heavenly Calendar) month.day. status: "verified" = matched to a published FFWPU calendar date; "tbc" = to be confirmed.
 const SRC_EU="https://www.tparents.org/Library/Unification/Topics/Calendar/UC-Calendar-2026a.pdf";
 const SRC_TPL="https://tplegacy.net/calendar/";
-const EVENTS=[
+var EVENTS=[
 {m:1,d:1,name:"God's Day (Heavenly Parent's Day), start of the Cheon Il Guk year",desc:"First day of the first month of the Heavenly Calendar. Ahn Shi Il offerings begin a new Cheon Il Guk year.",status:"verified",src:SRC_EU},
 {m:1,d:6,name:"True Parents' Birthday",desc:"Commemoration of the Holy Births of True Father (1920) and True Mother (1943).",status:"verified",src:SRC_EU},
 {m:1,d:13,name:"Cheon Il Guk Foundation Day",desc:"Foundation Day of Cheon Il Guk, 2013, from which the Cheon Il Guk years are counted. Also the Coronation Ceremony for the Kingship of God (2001).",status:"verified",src:SRC_EU},
